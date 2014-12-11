@@ -8,7 +8,7 @@ Profile Matching secara umum adalah proses membandingkan kompetensi suatu indivi
 
 ## Laporan Skripsi
 
-Laporan skripsi dapat dilihat [di sini](https://drive.google.com/file/d/0BwehWkK2UkkbNFZCX21Cc0lZTzQ/view?usp=sharing).
+Laporan skripsi dapat dilihat [di sini](https://drive.google.com/open?id=0BwehWkK2UkkbY0pEaHJybzRuN0E&authuser=0).
 
 ## Pedoman Menyumbang
 
